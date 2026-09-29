@@ -2,7 +2,7 @@
 
 I'm a business student at Cal Poly SLO studying Information Systems. I'm a business person at heart, but I'm teaching myself to be technical by building real projects.
 
-Stats ISA at Cal Poly · previously Product Innovation Intern at Shockproof Training
+Stats TA at Cal Poly · previously Product Innovation Intern at Shockproof Training
 
 ### What I'm working on
 - **Hold This Thought**: a native iOS reminder app built in Swift. You speak or type a thought and it turns it into a reminder based on time, location, or your calendar.
